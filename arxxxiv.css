@@ -1958,7 +1958,7 @@ div#long-author-list {
 }
 .mobile-header .column {
   border-left: 1px solid #fc5554;
-  border-right: 1px solid #731515;
+  border-right: 1px solid #b31b1b;
   height: 65px;
   padding: 0 1em;
   display: flex;
@@ -3298,7 +3298,7 @@ a:hover .icon.filter-red {
   display: block;
   background-color: #fff5f5;
   border: 1px solid #cd0200;
-  color: #970503;
+  color: #b31b1b;
   border-radius: 1em;
   font-size: 1em;
   line-height: 1.5;
@@ -3306,7 +3306,7 @@ a:hover .icon.filter-red {
 }
 
 .alert svg {
-  fill: #970503;
+  fill: #b31b1b;
 }
 
 .alert button {
